@@ -9,11 +9,11 @@ chicken coop control system
 
 ## MENU
 Individual open and close mode:
-MANUAL 
-TIME
-LIGHTSENSOR
-LUX+ - lightsensor + TIME
-SUNSET-SUNRISE  - calculated from LONGITUDE & LATITUDE
+- MANUAL (buttons)
+- TIME - This option is for automatic opening of the coop door in the morning, or automatic closing in the evening, at your set time/s.
+- LIGHTSENSOR - This option is for automatic opening of the coop door at dawn, or the automatic closing in the evening at dusk, using the Light Sensor.
+- LUX+ - lightsensor + TIME
+- SUNSET-SUNRISE - calculated from LONGITUDE & LATITUDE
 
 ## THERMOSTAT
    - DALLAS DS18B20 temperature sensor (In, Out)
